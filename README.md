@@ -181,6 +181,8 @@ Vue 参考：
 
 [CSS 编码规范](http://codeguide.bootcss.com/)
 
+[Loaging 图标](https://loading.io/)
+
 ### LESS
 
 [LESS 一种动态样式语言](http://www.bootcss.com/p/lesscss/)
